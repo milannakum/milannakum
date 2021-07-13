@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @milannakum.
 - 👀 I currently work on Salesforce and React.
-- 🌱 I work at Incapsulate, Ahmedabad, India.
+- 🌱 I work as a Senior Software Engineer.
 - 💞️ I love to play video games & watch sci-fi movies/series in my free time.
 - 📫 How to reach me ... milannakum@gmail.com
 
